@@ -1,3 +1,6 @@
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+[b] This was originally a university group project that I have chosen to revist to practise and improve on my Android application development skills [/b]
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # MAD-TicTacToe
 
 This Android app is a feature-rich Tic-Tac-Toe game developed as part of the "Mobile Application Development (COMP2008)" course, Assignment 1. This assignment 
