@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
- [b]This was originally a university group project that I have chosen to revist to practise and improve on my Android application development skills
+ This was originally a university group project that I have chosen to revist to practise and improve on my Android application development skills
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # MAD-TicTacToe
 
